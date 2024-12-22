@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Tashdeed
+    given-names: Ishmam
+    website: https://ishmamt.github.io
+  - family-names: Chowdhury
+    given-names: Md Taukir Azam
+    scholar: https://scholar.google.com/citations?user=t3ZFXwsAAAAJ&hl=en
+title: "VeloTrack: A Vehicle Speed Analysis System"
+version: 1.1
+identifiers:
+  - type: url
+    value: 'https://github.com/ishmamt/VeloTrack'
+date-released: 2023-03-11
